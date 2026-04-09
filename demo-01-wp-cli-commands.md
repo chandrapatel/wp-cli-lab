@@ -225,7 +225,7 @@ wp eval 'echo wp_generate_password(16, false);'
 wp eval 'echo apply_filters("the_title", "Test Title", 1) . "\n";'
 ```
 
-## DEMO: Workflow — Fresh WordPress Site in 60 Seconds
+## DEMO: Workflow — Fresh WordPress Site in less than 5 minute
 
 **Purpose:** Show the full new site setup workflow from empty directory to working WordPress.
 
